@@ -13,6 +13,7 @@ class LabForm_Control extends Controller
         Log::info($request->birthdate);
         Log::info($request->gender);
         Log::info($request->address);
+        Log::info($request->purpose);
 
         return redirect('/');
 

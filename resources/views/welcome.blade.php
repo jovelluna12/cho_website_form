@@ -35,81 +35,81 @@
                     <div class="component-1-container09">
                         <div class="component-1-batch1">
                         <div class="component-1-container10">
-                            <input type="checkbox" class="component-1-checkbox" />
+                            <input type="checkbox" class="component-1-checkbox" name="purpose[]" value="COMPLETE BLOOD COUNT"/>
                             <span>COMPLETE BLOOD COUNT</span>
                         </div>
                         <div class="component-1-container11">
-                            <input type="checkbox" class="component-1-checkbox01" />
+                            <input type="checkbox" class="component-1-checkbox01" name="purpose[]" value="FASTING BLOOD SUGAR TEST"/>
                             <span>FASTING BLOOD SUGAR TEST</span>
                         </div>
                         </div>
                         <div class="component-1-batch2">
                         <div class="component-1-container12">
-                            <input type="checkbox" class="component-1-checkbox02" />
+                            <input type="checkbox" class="component-1-checkbox02" name="purpose[]" value="BLOOD TYPE"/>
                             <span>BLOOD TYPE</span>
                         </div>
                         <div class="component-1-container13">
-                            <input type="checkbox" class="component-1-checkbox03" />
+                            <input type="checkbox" class="component-1-checkbox03" name="purpose[]" value="BLOOD URIC ACID TEST"/>
                             <span>BLOOD URIC ACID TEST</span>
                         </div>
                         </div>
                         <div class="component-1-batch3">
                         <div class="component-1-container14">
-                            <input type="checkbox" class="component-1-checkbox04" />
+                            <input type="checkbox" class="component-1-checkbox04" name="purpose[]" value="STOOL EXAM"/>
                             <span>STOOL EXAM</span>
                         </div>
                         <div class="component-1-container15">
-                            <input type="checkbox" class="component-1-checkbox05" />
+                            <input type="checkbox" class="component-1-checkbox05" name="purpose[]" value="BLOOD CHOLESTEROL TEST"/>
                             <span>BLOOD CHOLESTEROL TEST</span>
                         </div>
                         </div>
                         <div class="component-1-batch4">
                         <div class="component-1-container16">
-                            <input type="checkbox" class="component-1-checkbox06" />
+                            <input type="checkbox" class="component-1-checkbox06" name="purpose[]" value="URINALYSIS"/>
                             <span>URINALYSIS</span>
                         </div>
                         <div class="component-1-container17">
-                            <input type="checkbox" class="component-1-checkbox07" />
+                            <input type="checkbox" class="component-1-checkbox07" name="purpose[]" value="BLOOD CREATININE TEST"/>
                             <span>BLOOD CREATININE TEST</span>
                         </div>
                         </div>
                         <div class="component-1-batch5">
                         <div class="component-1-container18">
-                            <input type="checkbox" class="component-1-checkbox08" />
+                            <input type="checkbox" class="component-1-checkbox08" name="purpose[]" value="SYPHILIS RAPID TEST"/>
                             <span>SYPHILIS RAPID TEST</span>
                         </div>
                         <div class="component-1-container19">
-                            <input type="checkbox" class="component-1-checkbox09" />
+                            <input type="checkbox" class="component-1-checkbox09" name="purpose[]" value="ACID FAST STAINING"/>
                             <span>ACID FAST STAINING</span>
                         </div>
                         </div>
                         <div class="component-1-batch6">
                         <div class="component-1-container20">
-                            <input type="checkbox" class="component-1-checkbox10" />
+                            <input type="checkbox" class="component-1-checkbox10" name="purpose[]" value="HEPATITIS B"/>
                             <span>HEPATITIS B</span>
                         </div>
                         <div class="component-1-container21">
-                            <input type="checkbox" class="component-1-checkbox11" />
+                            <input type="checkbox" class="component-1-checkbox11" name="purpose[]" value="X-RAY TEST"/>
                             <span>X-RAY TEST</span>
                         </div>
                         </div>
                         <div class="component-1-batch7">
                         <div class="component-1-container22">
-                            <input type="checkbox" class="component-1-checkbox12" />
+                            <input type="checkbox" class="component-1-checkbox12" name="purpose[]" value=">ANTI-HAV TEST"/>
                             <span>ANTI-HAV TEST</span>
                         </div>
                         <div class="component-1-container23">
-                            <input type="checkbox" class="component-1-checkbox13" />
+                            <input type="checkbox" class="component-1-checkbox13" name="purpose[]" value="DRUG TEST"/>
                             <span>DRUG TEST</span>
                         </div>
                         </div>
                         <div class="component-1-batch8">
                         <div class="component-1-container24">
-                            <input type="checkbox" class="component-1-checkbox14" />
+                            <input type="checkbox" class="component-1-checkbox14" name="purpose[]" value="PREGNANCY TEST"/>
                             <span>PREGNANCY TEST</span>
                         </div>
                         <div class="component-1-container25">
-                            <input type="checkbox" class="component-1-checkbox15" />
+                            <input type="checkbox" class="component-1-checkbox15" name="purpose[]" value="TEST"/>
                             <span>TEST</span>
                         </div>
                         </div>
