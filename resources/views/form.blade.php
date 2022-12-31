@@ -23,6 +23,11 @@
                   </select>
                 </div>
               </div>
+              <!-- Error Message will be Displayed here -->
+                @foreach ($errors->all() as $error)
+                    {{$error}}<br>
+                @endforeach
+            
               <form action="/submit" method="POST">
                 @csrf
                 <div class="component-1-container04">
