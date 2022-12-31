@@ -145,7 +145,7 @@
                         <div class="component-1-container31">
                         <span class="component-1-text21">BIRTHDATE</span>
                         <input
-                            type="text"
+                            type="date"
                             placeholder="Date of Birth"
                             name="birthdate"
                             class="component-1-textinput2 input"
@@ -169,10 +169,6 @@
                             name="address"
                             class="component-1-textinput3 input"
                         />
-                        </div>
-                        <div class="component-1-container35">
-                        <span class="component-1-text24">DATE</span>
-                        <input type="text" placeholder="Date Today" class="input" />
                         </div>
                     </div>
                     <div class="component-1-container36">
