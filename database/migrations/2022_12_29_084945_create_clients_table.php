@@ -13,13 +13,15 @@ return new class extends Migration
      */
     public function up()
     {
+        Schema::dropIfExists('clients');
         Schema::create('clients',function(Blueprint $table){
-            $table->unsignedBigInteger('client_id')->primary();
+            $table->increments('client_id');
             $table->string('name');
             $table->string('address');
             $table->integer('age');
             $table->string('gender');
             $table->date('birthdate');
+            $table->timestamps();
         });
 
     }

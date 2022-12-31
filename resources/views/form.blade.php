@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>LABORATORY TEST</title>
+        <title>CHO Laboratory</title>
     </head>
     <body>
         <div>
@@ -13,7 +13,7 @@
                     alt="image"
                     class="component-1-image"
                   />
-                  <h1>CITY HEALTH OFFICE</h1>
+                  <h1>City Health Office</h1>
                 </div>
                 <div class="component-1-container03">
                   <select class="component-1-select">
@@ -27,7 +27,7 @@
                 @csrf
                 <div class="component-1-container04">
                     <div class="component-1-container05">
-                    <div class="component-1-container06"><h1>LABORATORY TESTS</h1></div>
+                    <div class="component-1-container06"><h1>Request for Laboratory Testing</h1></div>
                     <div class="component-1-container07"></div>
                     <div class="component-1-container08">
                         <h1 class="component-1-text02">Purpose:</h1>

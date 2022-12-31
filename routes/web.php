@@ -15,6 +15,6 @@ use App\Http\Controllers\LabForm_Control;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('form');
 });
 Route::post('/submit',[LabForm_Control::class,'handle']);

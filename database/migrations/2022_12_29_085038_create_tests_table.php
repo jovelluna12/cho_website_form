@@ -13,14 +13,15 @@ return new class extends Migration
      */
     public function up()
     {
+        Schema::dropIfExists('tests');
         Schema::create('tests',function(Blueprint $table){
             $table->id();
-            $table->unsignedBigInteger('ClientId');
+            $table->unsignedInteger('ClientId');
             $table->string('status');
+            $table->string('Service');
             $table->date('date');
-            $table->unsignedBigInteger("ServiceID");
-            $table->foreign("ServiceID")->references('ServiceID')->on("services");
-            $table->foreign("ClientId")->references('client_id')->on('clients');
+            $table->timestamps();
+            $table->foreign("ClientId")->references('client_id')->on('clients')->onDelete('cascade');
         });
     }
 
