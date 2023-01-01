@@ -24,9 +24,10 @@
                 </div>
               </div>
               <!-- Error Message will be Displayed here -->
-                @foreach ($errors->all() as $error)
+              
+                <span style="color: red">@foreach ($errors->all() as $error)
                     {{$error}}<br>
-                @endforeach
+                @endforeach</span>
             
               <form action="/submit" method="POST">
                 @csrf
