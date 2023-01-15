@@ -115,9 +115,18 @@
                             <span>PREGNANCY TEST</span>
                         </div>
                         <div class="component-1-container25">
-                            <input type="checkbox" class="component-1-checkbox15" name="purpose[]" value="TEST"/>
-                            <span>TEST</span>
+                            <input type="checkbox" class="component-1-checkbox15" name="purpose[]" value="SEROLOGY"/>
+                            <span>SEROLOGY</span>
                         </div>
+                        <div class="component-1-container26">
+                            <input type="checkbox" class="component-1-checkbox15" name="purpose[]" value="HEMATOLOGY"/>
+                            <span>HEMATOLOGY</span>
+                        </div>
+                        <div class="component-1-container27">
+                            <input type="checkbox" class="component-1-checkbox15" name="purpose[]" value="FECALYSIS"/>
+                            <span>FECALYSIS</span>
+                        </div>
+                        
                         </div>
                     </div>
                     </div>
