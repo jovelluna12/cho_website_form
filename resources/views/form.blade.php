@@ -15,13 +15,13 @@
                   />
                   <h1>City Health Office</h1>
                 </div>
-                <div class="component-1-container03">
-                  <select class="component-1-select">
-                    <option value="Menu">Menu</option>
+                <!-- <div class="component-1-container03">
+                  <select class="co"Menu>Menu</option>
+                    <option valuemponent-1-select>
                     <option value="Option 2">Settings</option>
                     <option value="Option 3">Logout</option>
                   </select>
-                </div>
+                </div> -->
               </div>
               <!-- Error Message will be Displayed here -->
               
@@ -118,19 +118,22 @@
                             <input type="checkbox" class="component-1-checkbox15" name="purpose[]" value="SEROLOGY"/>
                             <span>SEROLOGY</span>
                         </div>
-                        <div class="component-1-container26">
-                            <input type="checkbox" class="component-1-checkbox15" name="purpose[]" value="HEMATOLOGY"/>
+                        </div>
+                        <div class="component-1-batch9">
+                        <div class="component-1-container261">
+                            <input type="checkbox" class="component-1-checkbox16" name="purpose[]" value="HEMATOLOGY"/>
                             <span>HEMATOLOGY</span>
                         </div>
-                        <div class="component-1-container27">
-                            <input type="checkbox" class="component-1-checkbox15" name="purpose[]" value="FECALYSIS"/>
+                        <div class="component-1-container271">
+                            <input type="checkbox" class="component-1-checkbox17" name="purpose[]" value="FECALYSIS"/>
                             <span>FECALYSIS</span>
                         </div>
-                        <div class="component-1-container28">
-                            <input type="checkbox" class="component-1-checkbox15" name="purpose[]" value="Medical Certificate"/>
-                            <span>Medical Certificate</span>
                         </div>
-                        
+                        <div class="component-1-batch10">
+                            <div class="component-1-container281">
+                                <input type="checkbox" class="component-1-checkbox18" name="purpose[]" value="Medical Certificate"/>
+                                <span>Medical Certificate</span>
+                            </div>
                         </div>
                     </div>
                     </div>
