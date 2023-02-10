@@ -19,6 +19,7 @@ return new class extends Migration
             $table->unsignedInteger('ClientId');
             $table->string('status');
             $table->string('Service');
+            $table->softDeletes();
             $table->date('date');
             $table->timestamps();
             $table->foreign("ClientId")->references('client_id')->on('clients')->onDelete('cascade');
