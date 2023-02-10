@@ -126,6 +126,10 @@
                             <input type="checkbox" class="component-1-checkbox15" name="purpose[]" value="FECALYSIS"/>
                             <span>FECALYSIS</span>
                         </div>
+                        <div class="component-1-container28">
+                            <input type="checkbox" class="component-1-checkbox15" name="purpose[]" value="Medical Certificate"/>
+                            <span>Medical Certificate</span>
+                        </div>
                         
                         </div>
                     </div>
