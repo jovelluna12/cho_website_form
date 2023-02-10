@@ -1,8 +1,8 @@
 ## When Cloning this Project:
 
-1. Run git clone `<my-cool-project>` `<br>`
+1. Run git clone https://github.com/jovelluna12/cho_website_form.git `<br>`
 2. Run composer install `<br>`
-3. Run composer install
+3. Run composer update
 4. Run cp .env.example .env `<br>`
 5. Run php artisan key:generate `<br>`
 6. Run php artisan migrate `<br>`
