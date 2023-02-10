@@ -15,11 +15,6 @@ class LabForm_Control extends Controller
                 'purpose'=>'required',
                 'name'=>'string',
                 'age'=>'numeric'    
-            ],
-            [
-                'purpose.required'=>'Choose at Least one in the Purpose Field',
-                'name.string'=>'Invalid Name Format',
-                'age.numeric'=>'Invalid Age Format'
             ]
         );
         $client=new Clients();
