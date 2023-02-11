@@ -20,7 +20,7 @@
   }
   .component-1-container02 {
     flex: 0 0 auto;
-    width: 100%;
+    width: 80%;
     display: flex;
     position: relative;
     align-items: center;
@@ -64,9 +64,10 @@
     width: 50%;
     height: 100%;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: column;
     justify-content: flex-start;
+    margin-top: 0px;
   }
   .component-1-container06 {
     flex: 0 0 auto;
@@ -79,7 +80,7 @@
   .component-1-container07 {
     flex: 0 0 auto;
     width: 100%;
-    height: 20px;
+    height: 40px;
     display: flex;
     align-items: flex-start;
     border-color: #ffffff;
@@ -102,7 +103,7 @@
   }
   .component-1-container09 {
     width: 100%;
-    height: 452px;
+    height: 352px;
     display: flex;
     align-self: center;
     align-items: center;
@@ -112,7 +113,7 @@
   .component-1-batch1 {
     flex: 0 0 auto;
     width: 100%;
-    height: 50px;
+    height: 30px;
     display: flex;
     align-self: flex-start;
     align-items: center;
@@ -149,7 +150,7 @@
   .component-1-batch2 {
     flex: 0 0 auto;
     width: 100%;
-    height: 50px;
+    height: 40px;
     display: flex;
     align-self: flex-start;
     align-items: center;
@@ -185,7 +186,7 @@
   .component-1-batch3 {
     flex: 0 0 auto;
     width: 100%;
-    height: 50px;
+    height: 30px;
     display: flex;
     align-self: flex-start;
     align-items: center;
@@ -221,7 +222,7 @@
   .component-1-batch4 {
     flex: 0 0 auto;
     width: 100%;
-    height: 50px;
+    height: 30px;
     display: flex;
     align-self: flex-start;
     align-items: center;
@@ -257,7 +258,7 @@
   .component-1-batch5 {
     flex: 0 0 auto;
     width: 100%;
-    height: 50px;
+    height: 30px;
     display: flex;
     align-self: flex-start;
     align-items: center;
@@ -293,7 +294,7 @@
   .component-1-batch6 {
     flex: 0 0 auto;
     width: 100%;
-    height: 50px;
+    height: 30px;
     display: flex;
     align-self: flex-start;
     align-items: center;
@@ -329,7 +330,7 @@
   .component-1-batch7 {
     flex: 0 0 auto;
     width: 100%;
-    height: 50px;
+    height: 30px;
     display: flex;
     align-self: flex-start;
     align-items: center;
@@ -365,7 +366,7 @@
   .component-1-batch8 {
     flex: 0 0 auto;
     width: 100%;
-    height: 50px;
+    height: 30px;
     display: flex;
     align-self: flex-start;
     align-items: center;
@@ -375,7 +376,7 @@
   .component-1-batch9 {
     flex: 0 0 auto;
     width: 100%;
-    height: 50px;
+    height: 30px;
     display: flex;
     align-self: flex-start;
     align-items: center;
@@ -385,7 +386,7 @@
   .component-1-batch10 {
     flex: 0 0 auto;
     width: 100%;
-    height: 50px;
+    height: 30px;
     display: flex;
     align-self: flex-start;
     align-items: center;
@@ -458,6 +459,7 @@
     align-items: center;
     flex-direction: row;
     justify-content: flex-start;
+    margin-bottom: 5px;
   }
   .component-1-checkbox18 {
     height: 48px;
@@ -475,20 +477,20 @@
     justify-content: flex-start;
   }
   .component-1-container27 {
-    width: 100%;
-    height: 50%;
+    width: 80%;
+    height: 30%;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   .component-1-image1 {
-    width: 289px;
-    height: 296px;
+    width: 70%;
+    height: 90%;
     object-fit: cover;
   }
   .component-1-container28 {
     width: 100%;
-    height: 86px;
+    height: 80px;
     display: flex;
     align-items: flex-start;
     flex-direction: column;
@@ -507,7 +509,7 @@
   }
   .component-1-container29 {
     width: 100%;
-    height: 86px;
+    height: 40px;
     display: flex;
     align-items: center;
     flex-direction: row;
@@ -524,14 +526,15 @@
     justify-content: flex-start;
   }
   .component-1-text20 {
-    margin-top: 16px;
+    margin-top: 20px;
     margin-left: 16px;
   }
   .component-1-textinput1 {
     width: 80px;
-    margin-top: 8px;
+
     margin-left: 16px;
     height: 33px;
+    margin-bottom: 5px;
   }
   .component-1-container31 {
     flex: 0 0 auto;
@@ -543,8 +546,8 @@
     justify-content: flex-start;
   }
   .component-1-text21 {
-    margin-top: 16px;
-    margin-bottom: 8px;
+    margin-top: 20px;
+    margin-bottom: 0px;
   }
   .component-1-textinput2 {
     width: 210px;
@@ -552,7 +555,7 @@
   }
   .component-1-container32 {
     flex: 0 0 auto;
-    width: 200px;
+    width: 150px;
     height: 100px;
     display: flex;
     align-items: flex-start;
@@ -561,13 +564,12 @@
     margin-left: 5px;
   }
   .component-1-text22 {
-    margin-top: 16px;
+    margin-top: 20px;
     margin-left: 5px;
   }
   .component-1-select1 {
-    width: 150px;
+    width: 83%;
     height: 33px;
-    margin-top: 8px;
     margin-left: 5px;
   }
   .component-1-container33 {
@@ -580,7 +582,7 @@
   }
   .component-1-container34 {
     flex: 0 0 auto;
-    width: 92%;
+    width: 90%;
     height: 100px;
     display: flex;
     align-items: flex-start;
