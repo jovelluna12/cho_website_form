@@ -15,13 +15,9 @@
                   />
                   <h1>City Health Office</h1>
                 </div>
-                <!-- <div class="component-1-container03">
-                  <select class="co"Menu>Menu</option>
-                    <option valuemponent-1-select>
-                    <option value="Option 2">Settings</option>
-                    <option value="Option 3">Logout</option>
-                  </select>
-                </div> -->
+                <div class="component-1-container03">
+                    <input type="submit" class="component-Logout button" value="EXIT">
+                </div>
               </div>
               <!-- Error Message will be Displayed here -->
               
