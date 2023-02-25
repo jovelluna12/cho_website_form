@@ -5,7 +5,7 @@
     width: 100%;
     display: flex;
     overflow: auto;
-    min-height: 100vh;
+    height: 100%;
     align-items: center;
     flex-direction: column;
   }
@@ -37,21 +37,26 @@
     margin-bottom: 8px;
   }
   .component-1-container03 {
-    flex: 0 0 auto;
-    width: 30%;
+    flex: 0 20 auto;
+    width: 20%;
     height: 100px;
     display: flex;
-    align-items: center;
+    margin-right: 20px;
+    align-items: end; 
     flex-direction: column;
     justify-content: center;
   }
-  .component-1-select {
-    width: 144px;
-    height: 48px;
-    align-self: flex-end;
-    margin-right: 24px;
-    background-color: #1fedc5;
+
+  .component-Logout {
+    background-color: #1fede3;
+    font-size: 15px;
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+    width: 100px;
+    height: 30%;
+    border-radius: 10px;
   }
+
   .component-1-container04 {
     width: 100%;
     height: 739px;
@@ -624,8 +629,13 @@
     background-color: #1fedc5;
     width: 100px;
     height: 33px;
+    font-size: 15px;
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+    width: 100px;
     border-radius: 20px;
   }
+
   .component-1-container37 {
     flex: 0 0 auto;
     width: 100%;

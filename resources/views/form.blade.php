@@ -15,7 +15,9 @@
                   />
                   <h1>City Health Office</h1>
                 </div>
-                <!-- This Div is the Site's Nav Bar -->
+                <div class="component-1-container03">
+                    <input type="submit" class="component-Logout button" value="EXIT">
+                </div>
               </div>
               <!-- Error Message will be Displayed here -->
               
