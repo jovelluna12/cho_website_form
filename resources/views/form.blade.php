@@ -95,7 +95,7 @@
                         </div>
                         <div class="component-1-batch7">
                         <div class="component-1-container22">
-                            <input type="checkbox" class="component-1-checkbox12" name="purpose[]" value=">ANTI-HAV TEST"/>
+                            <input type="checkbox" class="component-1-checkbox12" name="purpose[]" value="ANTI-HAV TEST"/>
                             <span>ANTI-HAV TEST</span>
                         </div>
                         <div class="component-1-container23">
